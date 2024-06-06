@@ -1,8 +1,8 @@
 
 
-# DdddOcr 自训练验证码模型
+# Ddddocr 自训练验证码模型
 
-此为开源项目[ddddocr训练工具](https://github.com/sml2h3/dddd_trainer)自己训练的验证码模型以及对应的数据集备份，实测效果还算不错，可以配合项目[ddddocr api](https://github.com/sml2h3/ocr_api_server)部署到云端实现自动化过验证码
+此为基于开源项目[ddddocr训练工具](https://github.com/sml2h3/dddd_trainer)自己所训练的验证码模型以及相应的数据集备份，实测验证效果还算不错，可以配合项目[ddddocr api](https://github.com/sml2h3/ocr_api_server)部署到云端实现自动化过验证码
 
 ## 目录
 
@@ -17,11 +17,11 @@
 
 #### 今日校园
 
-![image-20240606213525725](C:\Users\H\AppData\Roaming\Typora\typora-user-images\image-20240606213525725.png)
+![今日校园验证码](https://raw.githubusercontent.com/LinYuanovo/ddddocr_models/main/pic/cpdaily.png)
 
 #### PikPak
 
-![image-20240606213640110](C:\Users\H\AppData\Roaming\Typora\typora-user-images\image-20240606213640110.png)
+![pikpak验证码](https://raw.githubusercontent.com/LinYuanovo/ddddocr_models/main/pic/pikpak.png)
 
 ### 上手指南
 
